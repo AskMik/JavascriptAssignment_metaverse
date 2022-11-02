@@ -1,0 +1,20 @@
+let alien_color = 'green'
+
+if (alien_color == 'green'){
+    console.log("You just earned 5 points!")
+}
+else{
+    console.log("You just earned 10 points!")
+}
+
+
+// else block runs:
+
+alien_color = 'sky blue'
+
+if (alien_color == 'green'){
+console.log("You just earned 5 points!")
+}
+else{
+console.log("You just earned 10 points!")
+}
